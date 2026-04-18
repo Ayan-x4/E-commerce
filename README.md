@@ -17,7 +17,7 @@
 
 ---
 
-## 🎥 Live Preview (Your Project GIF)
+## 🎥 Live Preview (GIF)
 
 <p align="center">
   <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/b2cf8c07-ca6d-4bba-b4d4-deb45101d658" />
