@@ -3,7 +3,8 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-      <div className="md:w-150 w-70 md:h-150  h-70   rounded-[50%]  md:ml-300 ml-60 md:mt-[-180px] mt-[-50px] md:border-3 border-2 border-[#05ABF3] flex ">
+    <div className="md:h-[120%] h-[100%] border-b-2 border-[#05ABF3]">
+      <div className="md:w-150 w-70 md:h-150  h-70   rounded-[50%]  md:ml-300 ml-60 md:mt-[-180px] mt-[-50px] md:border-3 border-2 border-[#05ABF3] flex  ">
         <div className="w-full h-full bg-[#05ABF3] rounded-[50%] md:border-10 border-8 border-[#008ECC] "></div>
       </div>
       <div className="h-100 w-full  md:ml-25 ml-3 md:mr-25 mr-3 p-1 bg absolute top-0 md:mt-20 mt-15">
@@ -51,7 +52,7 @@ const Footer = () => {
           <h1 className="ml-2 md:text-3xl text-xl font-medium text-white ">
           Download App
           </h1>
-          <div className="md:h-130 h-100 md:w-130 w-100 flex md:p-30 p-30 justify-center md:mt-[-200px] mt-[-150px] md:ml-[12px] ml-[-40px]">
+          <div className="md:h-130 h-100 md:w-130 w-100 flex md:p-35 p-30 justify-center md:mt-[-200px] mt-[-150px] md:ml-[-30px] ml-[-40px]">
           <img src="https://png.pngtree.com/png-clipart/20230916/original/pngtree-google-play-app-icon-vector-png-image_12256664.png" className=" object-contain"></img>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1280px-Download_on_the_App_Store_Badge.svg.png" className="h-full w-full object-contain" ></img>
           </div>
@@ -60,11 +61,40 @@ const Footer = () => {
         </div>
        
       </div>
-       <div className="absolute top-0 left-0 right-0 translate-x-1/2 translate-y-1/2 md:mt-20 mt-15">
-          <h1>
-            Most
+       <div className="md:absolute  md:top-[-150px] md:left-0 md:right-0 md:translate-x-1/2 md:translate-y-1/2 md:mt-20 mt-50 md:ml-[0] ml-7">
+          <h1 className="md:text-2xl text-xl font-medium text-white underline underline-offset-10 mb-4">
+            Most Popular Categories
           </h1>
+          <div className="leading-loose text-white list-disc pl-4">
+          <li>Staples</li>
+          <li>Electronics</li>
+          <li>Furnitures</li>
+          <li>Home Appliances </li>
+          <li>Vegetables & fruits</li>
+          <li>Baby Care</li>
+          <li>Home care</li>
+          <li>Clothe's</li>
+          <li>Sports and Games</li>
+          </div>
         </div>
+      <div className="md:absolute   md:top-[-150px]  md:left-[800px] md:right-0 md:translate-x-1/2 md:translate-y-1/2 md:mt-20 mt-8 md:ml-[0] ml-7">
+          <h1 className="md:text-2xl text-xl font-medium text-white underline underline-offset-10 mb-4">
+           Customer Services
+          </h1>
+          <div className="leading-loose text-white list-disc pl-4  ">
+          <li>About Us</li>
+          <li>Terms & Conditions</li>
+          <li>FAQ</li>
+          <li>Privacy Policy</li>
+          <li>E-waste Policy</li>
+          <li>Cancellation & Return Policy</li>
+          <li>Md Ayan</li>
+          <li>Frontend Developer</li>
+          <li>MegaMart By Ayan </li>
+          </div>
+        </div>
+    </div>
+    <h1 className="flex justify-center items-center text-white mt-4 leading-normal">© 2022 All rights reserved. MegaMart Ayan Ltd.</h1>
     </>
   );
 };

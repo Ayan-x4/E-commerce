@@ -1,58 +1,42 @@
 import { ChevronDown } from "lucide-react";
+import { useEffect, useState } from "react";
 
-const iItems = () => {
+const Items = () => {
+const [data, setData] = useState([]);
+  const [show, setShow] = useState(false);
+
+  async function getData() {
+    try {
+      const response = await fetch(
+        "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/products.json"
+      );
+      const result = await response.json();
+      setData(result);
+      setShow(true);
+    } catch (error) {
+      console.log("Error:", error);
+    }
+  }
+useEffect(() => {
+  getData();
+}, []);
+
+  const categories = [...new Set(data.map(item => item.subCategory))];
+
   return (
-    <div className="flex justify-around items-center md:p-4 p-1 md:px-20 px-1 md:font-medium md:text-[12px] text-[10px] md:gap-1 gap-3 whitespace-nowrap">
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Groceries{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2}  />
+    <div className="no-scrollbar scroll-smooth  flex md:gap-2 gap-1 ">
+     {categories.slice(9,19).map((cat,idx)=>(
+    
+      <button  className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300 cursor-pointer  ">
+          
+          {cat}
+        
+        <span  className="">
+          <ChevronDown size={15} strokeWidth={2} />
         </span>
-      </button>
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Premium Fruits{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2} />
-        </span>
-      </button>
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Homes & Kitchen{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2} />
-        </span>
-      </button>
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Fashion{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2} />
-        </span>
-      </button>
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Electonics{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2} />
-        </span>
-      </button>
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Beauty{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2} />
-        </span>
-      </button>
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Home Improvment{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2} />
-        </span>
-      </button>
-      <button className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300">
-        Sports,Toys & Lugges{" "}
-        <span className="">
-          <ChevronDown strokeWidth={2} />
-        </span>
-      </button>
+      </button>))}
     </div>
   );
 };
 
-export default iItems;
+export default Items;
