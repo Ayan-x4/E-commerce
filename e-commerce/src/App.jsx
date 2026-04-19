@@ -8,11 +8,15 @@ import Card1 from "./assets/components/Card1";
 import Banner2 from "./assets/components/Banner2";
 import Card2 from "./assets/components/Card2";
 import Footer from "./assets/components/Footer";
+import { useContext } from "react";
+import { Themecontext } from "./Contextuse";
 
 
 
 
 const App = () => {
+  const {theme} = useContext(Themecontext)
+  
   const arr = [
     { heading: "Grab the deal on ", product: "Smartphones"},
     { heading: "Shop From ", product: "Top Categories" },
@@ -29,7 +33,7 @@ const App = () => {
     {banner2 : "https://img.freepik.com/free-psd/smartphone-camera-control-social-media-banner-design-template_47987-25416.jpg?semt=ais_hybrid&w=740&q=80"},
   ]
   return (
-    <section className="no-scrollbar ">
+    <section className={`no-scrollbar ${theme}`}>
       <div className="md:py-2 py-0.5 md:px-5 px-0.5">
         <Navbar />
       </div>
@@ -57,7 +61,7 @@ const App = () => {
         <Cheading  name = {elem.heading} pro = {elem.product}  />
       ))}
       </div>
-      <div className='md:w-[full]  flex items-center md:ml-25 ml-3 md:mr-25 mr-3 md:mt-10 mt-5 md:gap-2 gap-3 md:flex-wrap overflow-x-auto no-scrollbar md:justify-between justify-around p-1'>
+      <div className='md:w-[full]  flex items-center md:ml-25 ml-3 md:mr-25 mr-3 md:mt-10 mt-5 md:gap-2 gap-3 md:flex-wrap overflow-x-auto no-scrollbar md:justify-between justify-around md:p-3' >
       <Card1/>
       </div>
       <div className="md:h-[55px] h-[32px] md:w-[full] flex items-center md:ml-25 ml-3 md:mr-25 mr-3 md:mt-10 mt-5 border-b-1 border-gray-300">

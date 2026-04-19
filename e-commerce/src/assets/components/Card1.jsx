@@ -1,5 +1,7 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
+import { Themecontext } from "../../Contextuse";
 const Card1 = () => {
+  const {theme,settheme} = useContext(Themecontext)
    const [data, setData] = useState([]);
   const [show, setShow] = useState(false);
 
@@ -25,7 +27,7 @@ const Card1 = () => {
   
 
     
-    <div className='md:h-[120px] md:w-[120px]  rounded-[50%] overflow-clip  items-center justify-center flex bg-[#F5F5F5] md:border-[1.5px] md:shadow-[0] shadow-[0px_1px_5px_0.1px_rgb(0,0,0,0.2)]  md:border-white border-[#008ECC] hover:border-[#008ECC] duration-200 cursor-pointer hover:shadow-[0px_2px_10px_0.1px_rgb(0,0,0,0.2)] duration-300'>
+    <div className={`md:h-[120px] md:w-[120px]  rounded-[50%] overflow-clip  items-center justify-center flex bg-[#F5F5F5] md:border-transparent md:border-[0px] border-1 md:shadow-[0px_1px_5px_0.1px_rgb(0,0,0,0.2)]  border-[#008ECC] hover:border-[#008ECC] duration-200 cursor-pointer shadow-none hover:shadow-[0_0_18px_#008ECC,0_0_5px_#008ECC] duration-300 ${theme}`}>
       <div className="h-[100px]  w-[100px] md:p-2 p-2 flex items-center ">
         <img
         src={card.thumbnail}

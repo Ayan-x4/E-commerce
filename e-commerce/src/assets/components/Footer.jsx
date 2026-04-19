@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useContext } from "react";
+import { Themecontext } from "../../Contextuse";
 
 const Footer = () => {
+  const {theme,settheme} = useContext(Themecontext)
   return (
     <>
     <div className="md:h-[120%] h-[100%] border-b-2 border-[#05ABF3]">

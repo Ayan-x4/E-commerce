@@ -1,7 +1,10 @@
 import { ChevronDown } from "lucide-react";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
+import { Themecontext } from "../../Contextuse";
 
 const Items = () => {
+  const {theme,settheme}= useContext(Themecontext)
+
 const [data, setData] = useState([]);
   const [show, setShow] = useState(false);
 
@@ -27,7 +30,7 @@ useEffect(() => {
     <div className="no-scrollbar scroll-smooth  flex md:gap-2 gap-1 ">
      {categories.slice(9,19).map((cat,idx)=>(
     
-      <button  className=" hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300 cursor-pointer  ">
+      <button  className={` hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300 cursor-pointer ${theme}`}>
           
           {cat}
         
