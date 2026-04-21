@@ -27,7 +27,7 @@ useEffect(() => {
   const categories = [...new Set(data.map(item => item.subCategory))];
 
   return (
-    <div className="no-scrollbar scroll-smooth  flex md:gap-2 gap-1 ">
+    <div className="no-scrollbar scroll-smooth  flex md:gap-2 gap-1  ">
      {categories.slice(9,19).map((cat,idx)=>(
     
       <button  className={` hover:bg-[#008ECC] bg-[#e5edf0] hover:text-white text-black  px-6 py-2 rounded-[20px] flex items-center text-center gap-1 hover:transition duration-300 cursor-pointer ${theme}`}>

@@ -25,7 +25,7 @@ useEffect(() => {
 
 return(
   <>
-  {data.slice(4).map((card)=>(
+  {data.slice(0,24).map((card)=>(
   <div  key={card.id} >
   
     <div className={`md:h-[200px] h-[100px] md:w-[200px] w-[100px]  m-1 flex items-center overflow-hidden shrink-0  md:rounded-2xl rounded-xl bg-[#EDEDED] md:border-2 border-1 md:border-transparent md:border-[#EDEDED] border-[#008ECC]  hover:border-[#008ECC] duration-300  cursor-pointer  hover:shadow-[2px_2px_5px_1px_rgba(0,0,0,0.1)] md:mb-1 ${theme}`}>

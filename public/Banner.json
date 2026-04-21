@@ -1,0 +1,174 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3200/1560/image/dade23fdfb7f5ae7.png?q=60"
+    },
+    {
+      "id": 2,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/1456cd1c438817a3.jpg?q=60"
+    }
+    ,
+    {
+      "id": 3,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3200/1560/image/e2620e20463c6c4a.png?q=60"
+    }
+       ,
+    {
+      "id": 4,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3200/1560/image/89142080c55402d5.png?q=60"
+    }
+     ,
+    {
+      "id": 5,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3200/1560/image/3e5c40ea9dd349c4.png?q=60"
+    }
+     ,
+    {
+      "id": 6,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3200/1560/image/726809eb33303752.png?q=60"
+    }
+  ],
+  "banner2":[
+    {
+      "id": 1,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/5cf3ad8c807b513d.jpg?q=60"
+    } ,
+    {
+      "id": 2,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3200/2000/image/ac12efa7fd23cd7b.jpg?q=60"
+    }
+     ,
+    {
+      "id": 3,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3200/1560/image/726809eb33303752.png?q=60"
+    }
+       ,
+    {
+      "id": 4,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/1456cd1c438817a3.jpg?q=60"
+    }
+       ,
+    {
+      "id": 5,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/a6ad1dee2d98706c.jpg?q=60"
+    }
+         ,
+    {
+      "id": 6,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/88f2c25ef5a27984.jpg?q=60"
+    }
+         ,
+    {
+      "id": 7,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/34463a6d873fbe7c.png?q=60"
+    }
+         ,
+    {
+      "id": 8,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/176836fb433f79bd.png?q=60"
+    }
+         ,
+    {
+      "id": 9,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/48eec26bbef37d6d.png?q=60"
+    }
+         ,
+    {
+      "id": 10,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/0a787886f29c83de.png?q=60"
+    }
+         ,
+    {
+      "id": 11,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/e1ef9d3963e62ec8.jpg?q=60"
+    }
+         ,
+    {
+      "id": 12,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/fa4609c3431b717d.jpg?q=60"
+    }
+          ,
+    {
+      "id": 13,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/896/438/image/ee49ed12d91e1faf.png?q=60"
+    }
+          ,
+    {
+      "id": 14,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/595980590c788c07.jpg?q=60"
+    }
+          ,
+    {
+      "id": 15,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/3e94ad5116e8c116.png?q=60"
+    }
+          ,
+    {
+      "id": 16,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/00cb539e72f6a6fb.jpg?q=60"
+    }
+          ,
+    {
+      "id": 17,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/6434db3f3c2f9ff0.png?q=60"
+    }
+          ,
+    {
+      "id": 18,
+      "image": "https://rukminim2.flixcart.com/fk-p-flap/3140/1540/image/ac30c811b1759432.jpg?q=60"
+    }
+          ,
+    {
+      "id": 19,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/2b79f22754fba459.jpg?q=60"
+    }
+          ,
+    {
+      "id": 20,
+      "image": "https://rukminim1.flixcart.com/fk-p-flap/3200/1560/image/52f52b19038e6f6d.jpg?q=60"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Smartphones",
+      "image": "https://www.livekarts.com/wp-content/uploads/2021/03/mi-note-7-pro-refurbished.png.webp"
+    },
+    {
+      "id": 2,
+      "categoryName": "Laptops",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Gaming/Laptop/Images/318868_0_HZ7AKItuO.png?updatedAt=1766429853199"
+    },
+    {
+      "id": 3,
+      "categoryName": "Headphones",
+      "image": "https://hammeronline.in/cdn/shop/files/Bash_2.0_Bluetooth_Headphones.webp?v=1726899059"
+    },
+    {
+      "id": 4,
+      "categoryName": "Smart Watches",
+      "image": "https://img-prd-pim.poorvika.com/product/samsung-galaxy-watch-ultra-lte-titanium-gray-47-mm-sm-l705fdaains-left-view.png"
+    },
+    {
+      "id": 5,
+      "categoryName": "Cameras",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/265694_0_pgfokr.png"
+    },
+    {
+      "id": 6,
+      "categoryName": "Gaming",
+      "image": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Gaming/Gaming%20Consoles/Images/321989_0_pJwz6fqHW.png?updatedAt=1775463233924"
+    },
+    {
+      "id": 7,
+      "categoryName": "Speakers",
+      "image": "https://media-ik.croma.com/prod/https://media.tatacroma.com/317835_0_jXOI7nfYq.png?updatedAt=1759998574151"
+    },
+    {
+      "id": 8,
+      "categoryName": "Accessories",
+      "image": "https://bedeals.in/wp-content/uploads/2024/09/Untitled-design-7-800x800.png"
+    }
+  ]
+}
