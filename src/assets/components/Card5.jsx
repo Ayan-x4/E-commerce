@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState } from "react";
 import { Themecontext } from "../../Contextuse";
 
-const Card = () => {
+const Card3 = () => {
   const { theme } = useContext(Themecontext);
 
   const [data, setData] = useState([]);
@@ -12,10 +12,10 @@ const Card = () => {
     fetch("/All.json")
       .then((res) => res.json())
       .then((res) => {
-        setData(res.products);
+        setData(res.HomeAppliances);
 
         setTimeout(() => {
-          const first = [...res.products].sort(() => Math.random() - 0.5);
+          const first = [...res.HomeAppliances].sort(() => Math.random() - 0.5);
 
           setVisible(first);
           setShow(true);
@@ -57,21 +57,21 @@ const Card = () => {
     );
   }
   return (
-    <div className="flex  md:gap-3 gap-2">
+    <div className="flex  md:gap-5 gap-2">
       {visible.map((item) => (
         <div
           key={item.id}
-          className="md:h-[320px] h-[220px] md:w-[250px] w-[150px]  rounded-2xl md:border-[1.8px] border-1 md:border-transparent md:border-[#EDEDED] border-[#008ECC] overflow-hidden hover:border-[#008ECC] duration-500 md:shadow-[1px_1px_1px_1px_rgba(0,0,0,0.3)] cursor-pointer  hover:shadow-[2px_2px_10px_1px_rgba(0,0,0,0.1)] md:mb-1"
+          className="md:h-[400px] h-[310px] md:w-[430px] w-[280px]   md:border-[1.8px] border-1 md:border-transparent md:border-[#EDEDED] border-[#008ECC] overflow-hidden hover:border-[#008ECC] duration-500 md:shadow-[1px_1px_1px_1px_rgba(0,0,0,0.3)] cursor-pointer  hover:shadow-[2px_2px_10px_1px_rgba(0,0,0,0.1)] md:mb-4 mb-3 md:rounded-tr-3xl rounded-tr-xl md:rounded-bl-3xl rounded-bl-xl "
         >
           <div
-            className={`bg-[#EDEDED] ${theme} md:h-[200px] h-[140px] w-full overflow-clip flex items-center relative `}
+            className={`bg-[#EDEDED] ${theme} md:h-[280px] h-[230px] w-full overflow-clip flex items-center relative `}
           >
             <img
               src={item.thumbnail}
               alt="product"
-              className="md:p-12 p-6 hover:scale-120 duration-300"
+              className="md:p-20 p-10  hover:scale-120 duration-300"
             ></img>
-            <div className="bg-[#008ECC] md:h-[60px] h-[40px] md:w-[60px] w-[40px] absolute top-0 right-0 md:p-2 text-center md:rounded-tr-1xl rounded-tr-xl md:rounded-bl-3xl rounded-bl-xl md:font-medium  text-white">
+            <div className="bg-[#008ECC] md:h-[60px] h-[40px] md:w-[60px] w-[40px] absolute top-0 right-0 md:p-2 text-center  md:rounded-bl-3xl rounded-bl-xl md:font-medium  text-white">
               <h1 className="md:text-[15px] text-[10px] md:p-0 p-1 text-center">
                 {item.discountPercentage}
                 <span>%</span> OFF
@@ -80,19 +80,19 @@ const Card = () => {
           </div>
           <div className="h-full w-full  md:p-3 p-2  ">
             <h1
-              className={`${theme} md:font-medium font-medium  md:text-xl text-[12px] text-gray-900`}
+              className={`${theme} md:font-medium font-medium  md:text-xl text-[12px] text-gray-900 text-center`}
             >
               {`${item.title}`}
             </h1>
-            <h1 className="md:font-bold font-bold  md:text-xl text-[14px] mt-1 mb-1 ">
-              <span>₹</span> {item.price}{" "}
+            <h1 className="md:font-bold font-bold  md:text-xl text-[14px] mt-1 mb-1 text-center">
+              <span>₹</span> {item.discountPrice}{" "}
               <span className="md:font-medium font-medium  md:text-xl text-[14px] mt-1 text-gray-500 line-through decoration-1 decoration-gray-500 ml-1 ">
                 <span>₹</span> {item.price}{" "}
               </span>
             </h1>
             <div className="h-[50px] w-full text-start  border-t-1 border-[#e4e4e4]">
-              <h1 className="text-[#249B3E] font-normal md:mt-1 md:text-[20px] text-[13px]">
-                <span>₹</span> {item.price}{" "}
+              <h1 className="text-[#249B3E] font-normal md:mt-1 md:text-[20px] text-[13px] text-center">
+                <span>Save </span><span>₹</span> {item.save}{" "}
               </h1>
             </div>
           </div>
@@ -102,4 +102,4 @@ const Card = () => {
   );
 };
 
-export default Card;
+export default Card3;

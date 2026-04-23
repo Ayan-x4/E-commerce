@@ -67,7 +67,7 @@ const Footer = () => {
           <h1 className="md:text-2xl text-xl font-medium text-white underline underline-offset-10 mb-4">
             Most Popular Categories
           </h1>
-          <div className="leading-loose text-white list-disc pl-4">
+          <div className="leading-loose text-white md:font-normal font-light md:text-[16px] text-[12px] list-disc pl-4 ">
           <li>Staples</li>
           <li>Electronics</li>
           <li>Furnitures</li>
@@ -83,7 +83,7 @@ const Footer = () => {
           <h1 className="md:text-2xl text-xl font-medium text-white underline underline-offset-10 mb-4">
            Customer Services
           </h1>
-          <div className="leading-loose text-white list-disc pl-4  ">
+          <div className="leading-loose text-white list-disc pl-4 md:font-normal font-light md:text-[16px] text-[12px] ">
           <li>About Us</li>
           <li>Terms & Conditions</li>
           <li>FAQ</li>

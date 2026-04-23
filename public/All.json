@@ -1,0 +1,256 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 15 Pro",
+      "price": 129900,
+      "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/300787_0_hezn4b.png",
+      "discountPercentage": 10
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S24",
+      "price": 109999,
+      "thumbnail": "https://kenielectronics.com/wp-content/uploads/2024/11/Samsung_Galaxy_S24_Ultra_5G_Titanium_black-removebg-preview.png",
+      "discountPercentage": 12
+    },
+    {
+      "id": 3,
+      "title": "OnePlus 12",
+      "price": 64999,
+      "thumbnail": "https://oasis.opstatics.com/content/dam/oasis/page/2023/cn/12/12-green.png",
+      "discountPercentage": 15
+    },
+    {
+      "id": 4,
+      "title": "Google Pixel 8",
+      "price": 75999,
+      "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/309149_0_wcdtyb.png",
+      "discountPercentage": 8
+    },
+    {
+      "id": 5,
+      "title": "Xiaomi 14",
+      "price": 69999,
+      "thumbnail": "https://cdn.beebom.com/mobile/2024/02/Xiaomi-14-5G.png",
+      "discountPercentage": 18
+    },
+    {
+      "id": 6,
+      "title": "Realme GT 6",
+      "price": 35999,
+      "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/307769_0_cyfqam.png",
+      "discountPercentage": 20
+    },
+    {
+      "id": 7,
+      "title": "iQOO Neo 9 Pro",
+      "price": 37999,
+      "thumbnail": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1707995261270/102651e0f5983f8cbb5b3fb06ea49f7c.png",
+      "discountPercentage": 14
+    },
+    {
+      "id": 8,
+      "title": "Motorola Edge 40",
+      "price": 29999,
+      "thumbnail": "https://technogoyani.com/wp-content/uploads/2023/09/Motorola-Edge-40-Neo-5G.webp",
+      "discountPercentage": 11
+    },
+    {
+      "id": 9,
+      "title": "Nothing Phone 2",
+      "price": 44999,
+      "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/301920_0_thffrs.png",
+      "discountPercentage": 9
+    },
+    {
+      "id": 10,
+      "title": "Samsung Galaxy A54",
+      "price": 32999,
+      "thumbnail": "https://cdn.beebom.com/mobile/2024/01/Untitled-design-2024-03-13T143932.891.png",
+      "discountPercentage": 16
+    },
+    {
+      "id": 11,
+      "title": "Redmi Note 13 Pro",
+      "price": 24999,
+      "thumbnail": "https://cdn.beebom.com/mobile/redmi-note-13-pro-front-and-back1.png",
+      "discountPercentage": 22
+    },
+    {
+      "id": 12,
+      "title": "Poco X6 Pro",
+      "price": 23999,
+      "thumbnail": "https://i02.appmifile.com/735_operatorx_operatorx_opx/09/01/2024/2343160ce0d2924c046efe29a4783fd7.png",
+      "discountPercentage": 19
+    },
+    {
+      "id": 13,
+      "title": "Vivo V30",
+      "price": 33999,
+      "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/305312_0_lwkx2g.png",
+      "discountPercentage": 13
+    },
+    {
+      "id": 14,
+      "title": "Oppo Reno 11",
+      "price": 36999,
+      "thumbnail": "https://img-prd-pim.poorvika.com/product/oppo-reno-11-por-5g-pearl-white-256gb-12gb-ram-front-back-view.png",
+      "discountPercentage": 10
+    },
+    {
+      "id": 15,
+      "title": "Asus ROG Phone 9 Pro",
+      "price": 74999,
+      "thumbnail": "https://cdn.beebom.com/mobile/asus-rog-phone-9-pro/asus-rog-phone-9-pro-front-back-design.png",
+      "discountPercentage": 7
+    },
+    {
+      "id": 16,
+      "title": "Sony Xperia 5 V",
+      "price": 89999,
+      "thumbnail": "https://xdaforums.com/data/xda/device/icon/20/2075.jpg?1696240788",
+      "discountPercentage": 6
+    },
+    {
+      "id": 17,
+      "title": "Redmi Note 7 pro",
+      "price": 28999,
+      "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/250906_0_kcinyb.png",
+      "discountPercentage": 17
+    },
+    {
+      "id": 18,
+      "title": "Honor 90",
+      "price": 29999,
+      "thumbnail": "https://img02.honorfile.com/ap/ae/honor/pms/product/6936520827176/800_800_90Percent_584675FB0FE54974BDE886E4A8D1CCCD7B011A5477ABA500mp.webp",
+      "discountPercentage": 14
+    },
+    {
+      "id": 19,
+      "title": "Tecno Phantom X2",
+      "price": 27999,
+      "thumbnail": "https://cdn.beebom.com/mobile/2023/12/Tecno-Phantom-X2-Pro.png",
+      "discountPercentage": 18
+    },
+    {
+      "id": 20,
+      "title": "Infinix Zero 30",
+      "price": 22999,
+      "thumbnail": "https://cdn.beebom.com/mobile/infinix-zero-30-5g-front-back-2.png",
+      "discountPercentage": 21
+    }
+  ],
+  "laptops":
+  [
+  { "id": 1, "title": "MacBook Air M3", "price": 134900, "discountPercentage": 8, "discountPrice": 124108, "save": 10792, "thumbnail": "https://www.smcyberzone.com/app/uploads/2025/01/CYBERZONE-WEBSITE-UPLOAD-1080-%C3%97-1080-px-23.png" },
+  { "id": 2, "title": "Dell XPS 13 (2024)", "price": 149999, "discountPercentage": 12, "discountPrice": 131999, "save": 18000, "thumbnail": "https://images.fonearena.com/blog/wp-content/uploads/2024/05/XPS-13-Platinum.png" },
+  { "id": 3, "title": "Lenovo LOQ", "price": 79999, "discountPercentage": 10, "discountPrice": 79999, "save": 9999, "thumbnail": "https://p2-ofp.static.pub/ShareResource/ww/landing-pages/legion-brand/Feb-2026/agnostic/img/lenovo-legion-agnostic-showcase-product-2.png" },
+  { "id": 4, "title": "Lenovo Yoga Slim 7", "price": 99999, "discountPercentage": 15, "discountPrice": 84999, "save": 15000, "thumbnail": "https://www.dolby.com/siteassets/xf-products/pc/lenovo-yoga-slim-7-carbon/lenovo-yoga-slim-7-carbon.png" },
+  { "id": 5, "title": "Asus ROG Zephyrus G14", "price": 159999, "discountPercentage": 10, "discountPrice": 143999, "save": 16000, "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/h73256.png" },
+  { "id": 6, "title": "Acer Predator Helios 16", "price": 169999, "discountPercentage": 14, "discountPrice": 146199, "save": 23800, "thumbnail": "https://hitechcentury.com/wp-content/uploads/2023/01/Acer-Predator-Helios-16-PH16-71-05.png" },
+  { "id": 7, "title": "Samsung Galaxy Book4 Pro", "price": 129999, "discountPercentage": 9, "discountPrice": 118299, "save": 11700, "thumbnail": "https://images.vodafone.co.uk/gbnnsauqav4t/nq0OAthnC2fFIsYfwFbCb/f1ce6b0700b8fa6914d9ac674fb8acfb/Samsung_Galaxy_Book4_Pro_360_5G_moonstone_grey-full-product-front-600.png" },
+  { "id": 8, "title": "MSI Stealth 14 Studio", "price": 154999, "discountPercentage": 11, "discountPrice": 137949, "save": 17050, "thumbnail": "https://storage-asset.msi.com/de/picture/image/landingpage/2023/0423_stealth_14/stealth%2014_Star%20Blue_laptop%20mix_mobile-1.png" },
+  { "id": 9, "title": "Realme Book Prime", "price": 69999, "discountPercentage": 18, "discountPrice": 57399, "save": 12600, "thumbnail": "https://primary.jwwb.nl/public/m/q/y/temp-qoneioklgzkhlpvltbly/photoroom_20240412_224737-high.png" },
+  { "id": 10, "title": "Apple MacBook Pro M3", "price": 169900, "discountPercentage": 7, "discountPrice": 158007, "save": 11893, "thumbnail": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/10/new-project-34.png?q=50&fit=contain&w=420&dpr=1.5" },
+  { "id": 11, "title": "HP  Omen Transcend 16 slim", "price": 89999, "discountPercentage": 13, "discountPrice": 78299, "save": 11700, "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/YadcYyEENMXNLponqcMqjD_1920_80.png" },
+  { "id": 12, "title": "Lenovo IdeaPad Slim 5", "price": 74999, "discountPercentage": 16, "discountPrice": 62999, "save": 12000, "thumbnail": "https://mtech.am/assets/images/a7/a72c50_IdeaPad-Slim-5-16IRL8-CT1-06-800x800.webp" },
+  { "id": 13, "title": "Asus Vivobook S15", "price": 85999, "discountPercentage": 14, "discountPrice": 73959, "save": 12040, "thumbnail": "https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/News/_nc3/ASUS_VivoBook_S14_S15_Available_in_five_bold_color_blocking_finishes-png-q82-w2560-h.webp" },
+  { "id": 14, "title": "Acer Aspire 7", "price": 79999, "discountPercentage": 12, "discountPrice": 70399, "save": 9600, "thumbnail": "https://cdn.assets.prezly.com/90c17f5d-1b23-4530-87fc-ee340c3f9d7e/Aspire-3_02.png" },
+  { "id": 15, "title": "MSI GF63 Thin", "price": 74999, "discountPercentage": 15, "discountPrice": 63749, "save": 11250, "thumbnail": "https://storage-asset.msi.com/global/picture/product/product_3_20180523133256_5b04fd08de29b.webp" },
+  { "id": 16, "title": "Dell Inspiron 14", "price": 82999, "discountPercentage": 11, "discountPrice": 73869, "save": 9130, "thumbnail": "https://cdn.mos.cms.futurecdn.net/oLqvxzkBL8pEdrK6tmFBQY.png" },
+  { "id": 17, "title": "HP Victus Gaming Laptop", "price": 94999, "discountPercentage": 13, "discountPrice": 82649, "save": 12350, "thumbnail": "https://itstore.com.bd/wp-content/uploads/2025/01/HP_Victus_15fa0033dx_Gaming_Laptop.webp" },
+  { "id": 18, "title": "Lenovo Legion 5 Pro", "price": 159999, "discountPercentage": 10, "discountPrice": 143999, "save": 16000, "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/06/16/original/13_Legion_Pro_7i_10_Pro_Family_1750070180545.png" },
+  { "id": 19, "title": "Asus TUF F15", "price": 89999, "discountPercentage": 17, "discountPrice": 74699, "save": 15300, "thumbnail": "https://cdn2.37left.lk/images/asus-tuf-gaming-f15-fx507vi-i7-13th-gen-rtx-4070-8gb-Mq--dwhvCzgE.webp" },
+  { "id": 20, "title": "Acer Swift Go 14", "price": 89999, "discountPercentage": 12, "discountPrice": 79199, "save": 10800, "thumbnail": "https://cdn.assets.prezly.com/6eea9401-3533-41c7-9abc-3a4658092acd/-/preview/1000x1000/-/format/auto/SP-03.png" }
+],
+"fashion":[
+  { "id": 1, "title": "Men's Denim Jacket", "price": 2999, "discountPercentage": 20, "discountPrice": 2399, "save": 600, "thumbnail": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_600,h_780,q_auto,f_auto,e_sharpen/SD_03_T16_6466M_E2_X_EC_94" },
+  { "id": 2, "title": "Women's Floral Dress", "price": 2499, "discountPercentage": 25, "discountPrice": 1874, "save": 625, "thumbnail": "https://static.fibre2fashion.com/MemberResources/LeadResources/1/2021/1/Seller/21189731/Images/21189731_1_women-s-floral-dress.png" },
+  { "id": 3, "title": "Men's Casual Shirt", "price": 1599, "discountPercentage": 15, "discountPrice": 1359, "save": 240, "thumbnail": "https://cdn.shopify.com/s/files/1/0616/9228/1003/files/B1230025_Canvas_Camp_Shirt_Jacket_SpanishMoss_Front.png?v=1739908571&width=250" },
+  { "id": 4, "title": "Women's Handbag", "price": 3499, "discountPercentage": 30, "discountPrice": 2449, "save": 1050, "thumbnail": "https://cdn.shopify.com/s/files/1/0558/3087/2250/files/SLSHALGBLK_3_435x.webp?v=1748500403?v=1706687931&width=750" },
+  { "id": 5, "title": "Men's Sneakers", "price": 3999, "discountPercentage": 18, "discountPrice": 3279, "save": 720, "thumbnail": "https://res.cloudinary.com/rmwdam/image/upload/f_auto,q_auto,dpr_3.0/w_250/products/images_png/BE70T_FWU02/BE70T.M9FWU_Sandbar-sneaker_2?_i=AG" },
+  { "id": 6, "title": "Women's Heels", "price": 2799, "discountPercentage": 22, "discountPrice": 2183, "save": 616, "thumbnail": "https://static.vecteezy.com/system/resources/thumbnails/041/642/573/small/ai-generated-black-leather-high-heeled-women-shoes-isolated-on-transparent-background-png.png" },
+  { "id": 7, "title": "Men's Leather Wallet", "price": 1499, "discountPercentage": 20, "discountPrice": 1199, "save": 300, "thumbnail": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2026/2/24/15a94a1e-fdd0-4a28-b110-e54641a6af7a_Z9AK9F2VZJ_MN_23022026.png" },
+  { "id": 8, "title": "Women's Sunglasses", "price": 1999, "discountPercentage": 28, "discountPrice": 1439, "save": 560, "thumbnail": "https://houseofkhalsa.com/cdn/shop/files/heritage-kaur-womens-sunglasseskaursun-284614.png?v=1729205980" },
+  { "id": 9, "title": "Men's Hoodie", "price": 2499, "discountPercentage": 17, "discountPrice": 2074, "save": 425, "thumbnail": "https://tbagco.com/wp-content/uploads/2023/01/mens-hoodie-front.png" },
+  { "id": 10, "title": "Women's Kurti", "price": 1899, "discountPercentage": 26, "discountPrice": 1405, "save": 494, "thumbnail": "https://png.pngtree.com/png-vector/20250123/ourmid/pngtree-a-casual-cotton-kurti-in-pastel-pink-png-image_15308829.png" },
+  { "id": 11, "title": "Men's Formal Shoes", "price": 4599, "discountPercentage": 21, "discountPrice": 3633, "save": 966, "thumbnail": "https://png.pngtree.com/png-vector/20240926/ourmid/pngtree-luxury-men-s-dress-shoes-brown-leather-monk-strap-polished-finish-png-image_13923112.png" },
+  { "id": 12, "title": "Women's Abayas", "price": 4999, "discountPercentage": 35, "discountPrice": 3249, "save": 1750, "thumbnail": "https://noorabayas.com/wp-content/uploads/2025/02/16.png" },
+  { "id": 13, "title": "Men's T-Shirt Pack", "price": 1299, "discountPercentage": 20, "discountPrice": 1039, "save": 260, "thumbnail": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/5/df54c244-8b73-4baf-a80f-60ba96c7d2d2_NPI-050875_1_20251205_084559.png" },
+  { "id": 14, "title": "Women's Jeans", "price": 2799, "discountPercentage": 18, "discountPrice": 2295, "save": 504, "thumbnail": "https://cdn.media.amplience.net/i/tom_ford/PAD130-DEX243_UAW_APPENDGRID" },
+  { "id": 15, "title": "Men's Watch", "price": 5999, "discountPercentage": 30, "discountPrice": 4199, "save": 1800, "thumbnail": "https://valuchiwatches.com/cdn/shop/files/date-master-40mm-9996394.png?v=1773105393&width=1500" },
+  { "id": 16, "title": "Women's Ethnic Set", "price": 3499, "discountPercentage": 27, "discountPrice": 2554, "save": 945, "thumbnail": "https://png.pngtree.com/png-vector/20250416/ourmid/pngtree-shop-red-lehenga-choli-set-online-with-designer-embroidery-png-image_16007506.png" },
+  { "id": 17, "title": "Men's Blazer", "price": 6999, "discountPercentage": 25, "discountPrice": 5249, "save": 1750, "thumbnail": "https://hespokestyle.com/wp-content/uploads/2023/08/classic-navy-blue-brass-button-sport-coat-he-spoke-style-shop.png" },
+  { "id": 18, "title": "Women's Clutch", "price": 1599, "discountPercentage": 20, "discountPrice": 1279, "save": 320, "thumbnail": "https://png.pngtree.com/png-clipart/20250111/original/pngtree-clutch-bag-isolated-png-image_19078049.png" },
+  { "id": 19, "title": "Men's Track Pants", "price": 1999, "discountPercentage": 22, "discountPrice": 1559, "save": 440, "thumbnail": "https://codesport.co.nz/imagecache/pi_1_1121366_6.png" },
+  { "id": 20, "title": "Women's Sandals", "price": 2499, "discountPercentage": 24, "discountPrice": 1899, "save": 600, "thumbnail": "https://tiimg.tistatic.com/fp/2/009/837/ladies-sandals-432.jpg" }
+],
+"HomeAppliances":[
+  { "id": 1, "title": "LG 260L Double Door Refrigerator", "price": 32999, "discountPercentage": 18, "discountPrice": 27059, "save": 5940, "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/233655_3_tkgroa.png" },
+  { "id": 2, "title": "Samsung 7kg Front Load Washing Machine", "price": 28999, "discountPercentage": 20, "discountPrice": 23199, "save": 5800, "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/303545_0_5eF9YO_0a.png?updatedAt=1766430777086" },
+  { "id": 3, "title": "Whirlpool 1.5 Ton Split AC", "price": 45999, "discountPercentage": 22, "discountPrice": 35879, "save": 10120, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/314000_0_pvzpjz.png" },
+  { "id": 4, "title": "Voltas 1 Ton Window AC", "price": 31999, "discountPercentage": 15, "discountPrice": 27199, "save": 4800, "thumbnail": "https://static.wixstatic.com/media/1bfbc7_f23e72cd3649440584548434dcfa1770~mv2.png/v1/fill/w_490,h_490,al_c,lg_1,q_85,enc_avif,quality_auto/1bfbc7_f23e72cd3649440584548434dcfa1770~mv2.png" },
+  { "id": 5, "title": "IFB 6kg Front Load Washing Machine", "price": 26999, "discountPercentage": 18, "discountPrice": 22139, "save": 4860, "thumbnail": "https://img-prd-pim.poorvika.com/product/ifb-6-0kg-front-load-top-ioad-washing-machine-diva-aqua-sxs-6010-silver-front-side-view.png" },
+  { "id": 6, "title": "Panasonic 20L Microwave Oven", "price": 8999, "discountPercentage": 25, "discountPrice": 6749, "save": 2250, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/199318_0_MGa9sVbSx7.png?updatedAt=1753350658183" },
+  { "id": 7, "title": "Bajaj 15L Water Heater (Geyser)", "price": 7999, "discountPercentage": 20, "discountPrice": 6399, "save": 1600, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Geysers/Images/316217_0_utkK_yENb.png?updatedAt=1753965838618" },
+  { "id": 8, "title": "Havells 1200mm Ceiling Fan", "price": 3499, "discountPercentage": 30, "discountPrice": 2449, "save": 1050, "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2022/9/MS/ZY/RJ/144103458/havells-florence-1200mm-ceiling-fan-500x500.png" },
+  { "id": 9, "title": "Philips Air Fryer", "price": 11999, "discountPercentage": 18, "discountPrice": 9839, "save": 2160, "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Kitchen%20Appliances%20Accessories/Images/306891_0_xh7mu2.png" },
+  { "id": 10, "title": "Prestige Induction Cooktop", "price": 3999, "discountPercentage": 22, "discountPrice": 3119, "save": 880, "thumbnail": "https://www.suranasons.in/cdn/shop/files/Untitleddesign_3c37e4db-a0a5-4dc4-9de0-652d0edec8ae.png?v=1735133604" },
+  { "id": 11, "title": "LG 1 Ton Split AC", "price": 40999, "discountPercentage": 17, "discountPrice": 34029, "save": 6970, "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Conditioner/Images/313058_0_tod8gf.png" },
+  { "id": 12, "title": "Samsung 253L Refrigerator", "price": 29999, "discountPercentage": 16, "discountPrice": 25199, "save": 4800, "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Refrigerator/Images/224006_0_jhix67.png" },
+  { "id": 13, "title": "PHILIPS EasySpeed Plus ", "price": 1999, "discountPercentage": 20, "discountPrice": 1799, "save": 200, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Garment%20Care/Images/229402_0_cmec1n.png" },
+
+  { "id": 15, "title": "Usha Room Heater", "price": 2999, "discountPercentage": 25, "discountPrice": 2249, "save": 750, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Room%20Heaters/Images/302395_0_U0CZVbj3c.png?updatedAt=1753879830679" },
+
+  { "id": 16, "title": "Kent RO Water Purifier", "price": 18999, "discountPercentage": 18, "discountPrice": 15579, "save": 3420, "thumbnail": "https://www.kent.co.in/cdn/shop/files/kent-sapphire-black-1.webp?v=1775645253&width=1222" },
+
+  { "id": 17, "title": "Eureka Forbes Vacuum Cleaner", "price": 10999, "discountPercentage": 21, "discountPrice": 8689, "save": 2310, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Vacuum%20Cleaners/Images/217719_0_YosrTzNj0.png?updatedAt=1760548990278" },
+  
+  { "id": 18, "title": "Morphy Richards Mixer Grinder", "price": 4999, "discountPercentage": 20, "discountPrice": 3999, "save": 1000, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Small%20Appliances/Food%20Preparation%20App/Images/301558_0_lcwnio.png" },
+  { "id": 19, "title": "Butterfly 3 Burner Gas Stove", "price": 5999, "discountPercentage": 23, "discountPrice": 4619, "save": 1380, "thumbnail": "https://www.myg.in/images/detailed/75/Butterfly_Trio_Glass_Top_1-removebg-preview.png" },
+  { "id": 20, "title": "Crompton Desert Air Cooler", "price": 13999, "discountPercentage": 19, "discountPrice": 11339, "save": 2660, "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Large%20Appliances/Air%20Cooler/Images/305342_0_grzfb0.png" }
+],
+"ExclusiveOffers":[
+  { "id": 1, "title": "iPhone 15 Pro", "price": 129900, "discountPercentage": 10, "discountPrice": 116910, "save": 12990, "thumbnail": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/300787_0_hezn4b.png" },
+  { "id": 2, "title": "Samsung Galaxy S24 Ultra", "price": 124999, "discountPercentage": 12, "discountPrice": 109999, "save": 15000, "thumbnail": "https://cdn.beebom.com/mobile/samsung-galaxy-s24-ultra/samsung-galaxy-s24-ultra-front-back-5.png" },
+  { "id": 3, "title": "OnePlus 12", "price": 64999, "discountPercentage": 15, "discountPrice": 55249, "save": 9750, "thumbnail": "https://cdn.beebom.com/mobile/2024/01/OnePlus-12-3.png" },
+  { "id": 4, "title": "MacBook Air M3", "price": 134900, "discountPercentage": 8, "discountPrice": 124108, "save": 10792, "thumbnail": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/mba_13_m3_2024_hero.png" },
+  { "id": 5, "title": "Sony WH-1000XM5", "price": 29990, "discountPercentage": 20, "discountPrice": 23992, "save": 5998, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/262566_0_emihyi.png?tr=w-600" },
+  { "id": 6, "title": "Apple Watch Series 9", "price": 41900, "discountPercentage": 10, "discountPrice": 37710, "save": 4190, "thumbnail": "https://img-prd-pim.poorvika.com/product/apple-watch-series-9-gps-45mm-mr973hn-a-left-view.png" },
+  { "id": 7, "title": "Boat Airdopes 141", "price": 4499, "discountPercentage": 25, "discountPrice": 3374, "save": 1125, "thumbnail": "https://www.boat-lifestyle.com/cdn/shop/files/AD141-FI_Black01_600x.png?v=1698391770" },
+  { "id": 8, "title": "Dell XPS 13", "price": 149999, "discountPercentage": 12, "discountPrice": 131999, "save": 18000, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/260850_0_t3r5p8.png" },
+  { "id": 9, "title": "HP Victus Gaming Laptop", "price": 94999, "discountPercentage": 13, "discountPrice": 82649, "save": 12350, "thumbnail": "https://in-media.apjonlinecdn.com/catalog/product/cache/314dec89b3219941707ad62ccc90e585/h/p/hp-victus-gaming-laptop-15-roku-mica-silver-front.png" },
+  { "id": 10, "title": "Samsung 55-inch 4K Smart TV", "price": 69999, "discountPercentage": 18, "discountPrice": 57399, "save": 12600, "thumbnail": "https://img-prd-pim.poorvika.com/product/samsung-4k-ultra-hd-led-smart-tv-du7000-55-inch-front-view.png" },
+  { "id": 11, "title": "LG OLED C3 TV", "price": 119999, "discountPercentage": 12, "discountPrice": 105599, "save": 14400, "thumbnail": "https://img-prd-pim.poorvika.com/product/Lg-4k-ultra-hd-smart-oled-evo-tv-c3-65-inch-oled65c3psa-Front-View.png" },
+  { "id": 12, "title": "Canon EOS 1500D", "price": 42999, "discountPercentage": 10, "discountPrice": 38699, "save": 4300, "thumbnail": "https://in.canon/media/image/2018/03/25/53849be12b66400498ed3b55bc9fae12_eos-1500d_b2.png" },
+  { "id": 13, "title": "GoPro Hero 12", "price": 45999, "discountPercentage": 8, "discountPrice": 42319, "save": 3680, "thumbnail": "https://postperspective.com/wp-content/uploads/2024/03/Max-Lens-Mod-2.0_-HERO12-Black.png" },
+  { "id": 14, "title": "JBL Flip 6", "price": 11999, "discountPercentage": 20, "discountPrice": 9599, "save": 2400, "thumbnail": "https://www.rucashk.com/wp-content/uploads/2024/01/5b965506-b0d1-48e8-a2b1-73953562d31a.png" },
+  { "id": 15, "title": "Amazon Echo Dot (5th Gen)", "price": 5499, "discountPercentage": 22, "discountPrice": 4289, "save": 1210, "thumbnail": "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/269862_0_sktjam.png" },
+  { "id": 16, "title": "Nike Air Max Shoes", "price": 8999, "discountPercentage": 18, "discountPrice": 7379, "save": 1620, "thumbnail": "https://www.theclosetinc.com/cdn/shop/files/AURORA_FD5810-003_PHCFH001-2000.png?v=1729883707&width=2000" },
+  { "id": 17, "title": "Men's Denim Jacket", "price": 2999, "discountPercentage": 20, "discountPrice": 2399, "save": 600, "thumbnail": "https://content.stylitics.com/images/items/20659209" },
+  { "id": 18, "title": "Women's Handbag", "price": 3499, "discountPercentage": 30, "discountPrice": 2449, "save": 1050, "thumbnail": "https://tiimg.tistatic.com/fp/2/009/795/ladies-handbag-915.jpg" },
+  { "id": 19, "title": "Philips Air Fryer", "price": 11999, "discountPercentage": 18, "discountPrice": 9839, "save": 2160, "thumbnail": "https://mahajanelectronics.com/cdn/shop/files/Air-fryer-4-L_1024x.webp?v=1769801111" },
+  { "id": 20, "title": "Kent RO Water Purifier", "price": 18999, "discountPercentage": 18, "discountPrice": 15579, "save": 3420, "thumbnail": "https://vcarecompany.in/wp-content/uploads/2024/08/grand-star-black.png" }
+],
+"DailyEssentials":[
+  { "id": 1, "title": "Aashirvaad Atta 10kg", "price": 550, "discountPercentage": 10, "discountPrice": 495, "save": 55, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/40127505_9-aashirvaad-shudh-chakki-atta.jpg" },
+  { "id": 2, "title": "Fortune Sunflower Oil 5L", "price": 899, "discountPercentage": 12, "discountPrice": 791, "save": 108, "thumbnail": "https://www.bbassets.com/media/uploads/p/xl/274148_15-fortune-sun-lite-sunflower-refined-oil.jpg" },
+  { "id": 3, "title": "Tata Salt 1kg", "price": 30, "discountPercentage": 5, "discountPrice": 29, "save": 1, "thumbnail": "https://www.bbassets.com/media/uploads/p/xxl/241600_9-tata-salt-iodized.jpg" },
+  { "id": 4, "title": "India Gate Basmati Rice 5kg", "price": 650, "discountPercentage": 15, "discountPrice": 553, "save": 97, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/283426_5-india-gate-basmati-rice-feast-rozzana.jpg" },
+  { "id": 5, "title": "Amul Butter 500g", "price": 275, "discountPercentage": 8, "discountPrice": 253, "save": 22, "thumbnail": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2026/2/17/e8b503c1-1a0e-4f0e-b011-c0330be6124e_127_1.png" },
+  { "id": 6, "title": "Britannia Good Day Biscuits", "price": 50, "discountPercentage": 10, "discountPrice": 45, "save": 5, "thumbnail": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/e6e58457-4900-435a-8198-b9bed613e7f8.png?bg_token=color.background.quaternary" },
+  { "id": 7, "title": "Maggi Noodles Pack", "price": 140, "discountPercentage": 12, "discountPrice": 123, "save": 17, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/40189011_2-maggi-maha-2-minute-masala-noodles-happy-share-pack.jpg" },
+  { "id": 8, "title": "Colgate Toothpaste 200g", "price": 120, "discountPercentage": 15, "discountPrice": 102, "save": 18, "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2024/3/404264409/HU/PI/ZQ/101922198/3-200g-front.png" },
+  { "id": 9, "title": "Surf Excel Detergent 1kg", "price": 220, "discountPercentage": 18, "discountPrice": 180, "save": 40, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/40101707_12-surf-excel-easy-wash-detergent-powder.jpg" },
+  { "id": 10, "title": "Dove Soap Pack", "price": 180, "discountPercentage": 10, "discountPrice": 162, "save": 18, "thumbnail": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/e42bab8e-f22e-414b-a58b-eb655c07377d.png?bg_token=color.background.quaternary" },
+  { "id": 11, "title": "Clinic Plus Shampoo 650ml", "price": 350, "discountPercentage": 20, "discountPrice": 280, "save": 70, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/40019013_10-clinic-plus-strong-long-health-shampoo.jpg" },
+  { "id": 12, "title": "Parle-G Biscuits Family Pack", "price": 100, "discountPercentage": 10, "discountPrice": 90, "save": 10, "thumbnail": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/NI_CATALOG/IMAGES/ciw/2025/12/18/3524c9af-12c6-4b25-82be-9031402197e4_TPNU4B4XLM_MN_17122025.png" },
+  { "id": 13, "title": "Tata Tea Gold 1kg", "price": 600, "discountPercentage": 12, "discountPrice": 528, "save": 72, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/240065_20-tata-tea-gold-tea.jpg" },
+  { "id": 14, "title": "Bru Instant Coffee 200g", "price": 350, "discountPercentage": 15, "discountPrice": 298, "save": 52, "thumbnail": "https://www.bbassets.com/media/uploads/p/xl/266579_29-bru-instant-coffee.jpg" },
+  { "id": 15, "title": "Dettol Handwash 900ml", "price": 200, "discountPercentage": 18, "discountPrice": 164, "save": 36, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/100176689_36-dettol-liquid-handwash-original-everyday-protection-fights-germs.jpg" },
+  { "id": 16, "title": "Lizol Floor Cleaner 1L", "price": 180, "discountPercentage": 15, "discountPrice": 153, "save": 27, "thumbnail": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/da/cms-assets/cms/product/b21139f6-2a8d-40f5-a0db-f069566019c0.png?bg_token=color.background.quaternary" },
+  { "id": 17, "title": "Harpic Toilet Cleaner 1L", "price": 210, "discountPercentage": 20, "discountPrice": 168, "save": 42, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/40006902_21-harpic-disinfectant-toilet-cleaner-liquid-rose-kills-999-germs.jpg" },
+  { "id": 18, "title": "Vim Dishwash Liquid 750ml", "price": 160, "discountPercentage": 15, "discountPrice": 136, "save": 24, "thumbnail": "https://www.bbassets.com/media/uploads/p/l/307195_24-vim-dishwash-liquid-gel-lemon.jpg" }
+]
+}
