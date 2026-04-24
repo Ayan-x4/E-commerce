@@ -19,7 +19,7 @@
 ## 🎥 Live Preview (GIF)
 
 <p align="center">
-<img width="800" height="450" alt="Image" src="https://s3.ezgif.com/tmp/ezgif-37d25e863e07624e.gif" />
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/c214c5bd-3d11-4e58-b6b7-2af0143f24e8" />
 </p>
 ---
 
