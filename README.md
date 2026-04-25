@@ -49,8 +49,10 @@ Designed with modern UI principles using <b>React.js + Tailwind CSS</b>.
 | ⚛️ useState        | State management |
 | 🔄 useEffect       | Lifecycle & API  |
 | 📡 API Integration | Dynamic Data     |
+| 📡 ContextAPI Integration | Dynamic Data|
 | 🔁 map()           | List rendering   |
 | 🧩 Components      | Reusable UI      |
+
 
 </div>
 
@@ -98,10 +100,10 @@ npm run dev
 
 ## 🌐 APIs Used
 
-* Products API
+* AllProducts API
 * Categories API
-* Banner API
-* Deals API
+* Mobile API
+* Add more API in Future
 
 ---
 
